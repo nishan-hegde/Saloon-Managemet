@@ -2,7 +2,6 @@
 
 Welcome to the SKIN SAVIOUR ANDROID APPLICATION – your go-to solution for hassle-free salon appointment booking! ✂️💈 Our app connects you with skilled stylists, making grooming services easier and more efficient for both customers and salon owners.
 
-✨ Features ✨
 🧑‍🦱 For Customers:
 Effortless Appointment Booking 📅: Browse through available time slots and select one that fits your schedule seamlessly.
 Diverse Grooming Services 💇‍♂️: Choose from a variety of services, including stylish haircuts, fresh shaves, and more.
